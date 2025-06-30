@@ -1,3 +1,9 @@
+## Welcome to jyun's GitHub 🍀
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kimjyun27@gmail.com)
+<a href="https://k-jyun.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
+</a>
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
