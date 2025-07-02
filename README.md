@@ -1,4 +1,4 @@
-# Welcome to JYUN's GitHub 🍀
+## Welcome 🍀
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kimjyun27@gmail.com)
 <a href="https://k-jyun.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
